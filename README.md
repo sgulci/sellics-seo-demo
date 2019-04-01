@@ -1,4 +1,4 @@
-#Sellics Amazon SEO Estimation Demo Application
+# Sellics Amazon SEO Estimation Demo Application
 
 This application's main assumption is when we search with Amazon autocomplete when
 typing each letter in the keyword the we have to find exact keyword in the suggestions.
@@ -8,7 +8,7 @@ find exact match. We can not say that containing keyword has effects on seo scor
 information about this. And depending on there not enough info about that we can ignore results 
 that contains keywords.
 
-##Estimation Logic
+## Estimation Logic
 
 We can try to explain estimation algorithm step by step 
 
